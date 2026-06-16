@@ -1,0 +1,4 @@
+Mall_customer.csv
+__pycache__/
+.ipynb_checkpoints/
+venv/
